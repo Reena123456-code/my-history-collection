@@ -25,3 +25,8 @@ table, th, td{
 .archaeology {
     background-color: lightblue;
 }
+
+.village-history {
+    background-color: Green;
+    color: white;
+}
