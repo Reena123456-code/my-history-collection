@@ -34,3 +34,12 @@ table, th, td{
 .church-design {
     background-color: pink;
 }
+
+.monasteries {
+    background-color: orange;
+}
+
+.research-guide {
+    background-color: red;
+    color: white;
+}
