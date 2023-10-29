@@ -129,3 +129,12 @@ table, th, td{
 #early-christian {
     color: lightpink;
 }
+
+.journals {
+    background-color: purple;
+    color: white;
+}
+
+#journals {
+    color: purple;
+}
