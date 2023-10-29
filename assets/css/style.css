@@ -26,17 +26,33 @@ table, th, td{
     background-color: lightblue;
 }
 
+#archaeology {
+    color: lightblue;
+}
+
 .village-history {
     background-color: Green;
     color: white;
+}
+
+#village-history {
+    color: Green;
 }
 
 .church-design {
     background-color: pink;
 }
 
+#church-design {
+    color: pink;
+}
+
 .monasteries {
     background-color: orange;
+}
+
+#monasteries {
+    color: orange;
 }
 
 .research-guide {
@@ -44,19 +60,48 @@ table, th, td{
     color: white;
 }
 
+#research-guide {
+    color: red;
+}
+
 .maynooth-research-guide {
     background-color: lightgreen;
+}
+
+#maynooth-research-guide {
+    color: lightgreen;
 }
 
 .war-of-independence {
     background-color: purple;
     color: white;
 }
+
+#war-of-indepedence {
+    color: purple;
+}
+
 .english-history {
     background-color: yellow;
+}
+
+#english-history {
+    color: yellow;
 }
    
 .cork-county-history {
     background-color: blue;
     color: white;
+}
+
+#cork-county-history {
+    color: blue;
+}
+
+.travel-guide {
+   background-color: ;
+}
+
+#travel-guide {
+    color:
 }
