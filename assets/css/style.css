@@ -172,3 +172,12 @@ table, th, td{
 #castles {
     color: yellow;
 }
+
+.church-history {
+    background-color: blue;
+    color: white;
+}
+
+#church-history {
+    color: blue;
+}
