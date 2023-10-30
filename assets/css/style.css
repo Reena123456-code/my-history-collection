@@ -138,3 +138,12 @@ table, th, td{
 #journals {
     color: purple;
 }
+
+.maccarthy {
+    background-color: red;
+    color: white;
+}
+
+#maccarthy {
+    color: red;
+}
