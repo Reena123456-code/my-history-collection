@@ -181,3 +181,11 @@ table, th, td{
 #church-history {
     color: blue;
 }
+
+.irish-history {
+    background-color: lightgreen;
+}
+
+#irish-history {
+    color: lightgreen;
+}
