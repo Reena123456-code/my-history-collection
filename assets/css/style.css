@@ -205,3 +205,12 @@ table, th, td{
 #gaelic-ireland {
     color: yellow;
 }
+
+.irelands-own {
+    background-color: red;
+    color: white;
+}
+
+#irelands-own { 
+    color: red;
+}
