@@ -155,3 +155,12 @@ table, th, td{
 #famine {
     color: orange;
 }
+
+.early-modern {
+    background-color: purple;
+    color: white;
+}
+
+#early-modern {
+    color: purple;
+}
