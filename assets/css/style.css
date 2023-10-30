@@ -164,3 +164,11 @@ table, th, td{
 #early-modern {
     color: purple;
 }
+
+.castles {
+    background-color: yellow;
+}
+
+#castles {
+    color: yellow;
+}
