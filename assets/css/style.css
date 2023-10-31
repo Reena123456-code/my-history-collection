@@ -214,3 +214,8 @@ table, th, td{
 #irelands-own { 
     color: red;
 }
+
+.navbar {
+    font-size: larger;
+    text-transform: uppercase;
+} 
