@@ -12,6 +12,11 @@ img {
     border: 4px solid black;
 }
 
+h2 {
+    font-size: 100px;
+    text-align: center;
+}
+
 /*Table*/
 .table-head {
     background-color: white;
@@ -19,6 +24,7 @@ img {
 
 table, th, td{
     border: 2px solid rgb(171, 168, 168);
+    font-size: larger;
    /* border-collapse: collapse;*/
 }
 
