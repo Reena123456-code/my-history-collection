@@ -232,3 +232,8 @@ table, th, td{
     font-size: xx-large;
     text-transform: uppercase;
 } 
+
+a {
+    width: 33%;
+    height: 30px;
+}
