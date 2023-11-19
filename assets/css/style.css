@@ -4,6 +4,7 @@ body {
 h1 {
     font-family: 'Merriweather', serif;
     text-align: center;
+    font-size: 100px;
 }
 
 img {
@@ -13,7 +14,7 @@ img {
 }
 
 h2 {
-    font-size: 100px;
+    font-size: 90px;
     text-align: center;
 }
 
@@ -37,7 +38,7 @@ table, th, td{
 }
 
 #archaeology {
-    color: lightblue;
+    color: lightblue; 
 }
 
 .village-history {
@@ -62,7 +63,7 @@ table, th, td{
 }
 
 #monasteries {
-    color: orange;
+    color: orange; 
 }
 
 .research-guide {
@@ -71,7 +72,7 @@ table, th, td{
 }
 
 #research-guide {
-    color: red;
+    color: red; 
 }
 
 .maynooth-research-guide {
@@ -81,6 +82,7 @@ table, th, td{
 #maynooth-research-guide {
     color: lightgreen;
 }
+
 
 .war-of-independence {
     background-color: purple;
@@ -105,7 +107,7 @@ table, th, td{
 }
 
 #cork-county-history {
-    color: blue;
+    color: blue;  
 }
 
 .travel-guides {
@@ -113,7 +115,7 @@ table, th, td{
 }
 
 #travel-guides {
-    color: plum;
+    color: plum; 
 }
 
 .cork-city-history {
@@ -121,7 +123,7 @@ table, th, td{
 }
 
 #cork-city-history {
-    color: lightblue;
+    color: lightblue; 
 }
 
 .medieval-history {
@@ -137,7 +139,7 @@ table, th, td{
 }
 
 #early-christian {
-    color: lightpink;
+    color: lightpink; 
 }
 
 .journals {
@@ -146,7 +148,7 @@ table, th, td{
 }
 
 #journals {
-    color: purple;
+    color: purple; 
 }
 
 .maccarthy {
@@ -155,7 +157,7 @@ table, th, td{
 }
 
 #maccarthy {
-    color: red;
+    color: red; 
 }
 
 .famine {
@@ -163,7 +165,7 @@ table, th, td{
 }
 
 #famine {
-    color: orange;
+    color: orange; 
 }
 
 .early-modern {
@@ -172,7 +174,7 @@ table, th, td{
 }
 
 #early-modern {
-    color: purple;
+    color: purple; 
 }
 
 .castles {
@@ -180,7 +182,7 @@ table, th, td{
 }
 
 #castles {
-    color: yellow;
+    color: yellow; 
 }
 
 .church-history {
@@ -189,7 +191,7 @@ table, th, td{
 }
 
 #church-history {
-    color: blue;
+    color: blue; 
 }
 
 .irish-history {
@@ -197,7 +199,7 @@ table, th, td{
 }
 
 #irish-history {
-    color: lightgreen;
+    color: lightgreen; 
 }
 
 .industrial-heritage {
@@ -205,7 +207,7 @@ table, th, td{
 }
 
 #industrial-heritage {
-    color: lightpink;
+    color: lightpink; 
 }
 
 .gaelic-ireland {
@@ -213,7 +215,7 @@ table, th, td{
 }
 
 #gaelic-ireland {
-    color: yellow;
+    color: yellow; 
 }
 
 .irelands-own {
@@ -222,10 +224,11 @@ table, th, td{
 }
 
 #irelands-own { 
-    color: red;
+    color: red; 
 }
 
 .navbar {
-    font-size: larger;
+    font-weight: 900;
+    font-size: xx-large;
     text-transform: uppercase;
 } 
