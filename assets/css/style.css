@@ -28,6 +28,10 @@ table, th, td{
    /* border-collapse: collapse;*/
 }
 
+#home {
+    color: brown;
+}
+
 .archaeology {
     background-color: lightblue;
 }
