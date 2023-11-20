@@ -51,11 +51,11 @@ table, th, td{
 }
 
 .church-design {
-    background-color: pink;
+    background-color: rgb(239, 16, 161);
 }
 
 #church-design {
-    color: pink;
+    color: rgb(239, 16, 161);
 }
 
 .monasteries {
@@ -111,11 +111,11 @@ table, th, td{
 }
 
 .travel-guides {
-   background-color: plum;
+   background-color: rgb(174, 68, 174);
 }
 
 #travel-guides {
-    color: plum; 
+    color: rgb(174, 68, 174); 
 }
 
 .cork-city-history {
@@ -135,11 +135,11 @@ table, th, td{
 }
 
 .early-christian {
-    background-color: lightpink;
+    background-color: rgb(239, 16, 161);
 }
 
 #early-christian {
-    color: lightpink; 
+    color: rgb(239, 16, 161); 
 }
 
 .journals {
@@ -203,11 +203,11 @@ table, th, td{
 }
 
 .industrial-heritage {
-    background-color: lightpink;
+    background-color: rgb(239, 16, 161);
 }
 
 #industrial-heritage {
-    color: lightpink; 
+    color: rgb(239, 16, 161); 
 }
 
 .gaelic-ireland {
@@ -234,6 +234,6 @@ table, th, td{
 } 
 
 a {
-    width: 33%;
+    width: 25%;
     height: 30px;
 }
