@@ -18,6 +18,24 @@ h2 {
     text-align: center;
 }
 
+.flex-container {
+    display: flex;
+}
+
+.flex-container > div {
+    text-align: center;
+    width: 400px;
+    height: 200px;
+    border: 2px solid blue;
+    background-color: aqua;
+}
+
+li {
+    list-style-type: none;
+    text-align: center;
+    font-size: medium;
+}
+
 /*Table*/
 .table-head {
     background-color: white;
