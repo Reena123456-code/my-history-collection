@@ -245,6 +245,13 @@ table, th, td{
     color: red; 
 }
 
+.local-government {
+    background-color: yellow;
+}
+
+#local-government {
+    color: yellow;
+}
 .navbar {
     font-weight: 900;
     font-size: xx-large;
