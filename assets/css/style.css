@@ -1,6 +1,7 @@
 body {
     background-color: rgb(171, 168, 168);
 }
+
 h1 {
     font-family: 'Merriweather', serif;
     text-align: center;
@@ -22,7 +23,7 @@ h2 {
     display: flex;
 }
 
-.flex-container > div {
+.flex-container>div {
     text-align: center;
     width: 400px;
     height: 200px;
@@ -41,15 +42,23 @@ li {
     background-color: white;
 }
 
-table, th, td{
+table,
+th,
+td {
     border: 2px solid rgb(171, 168, 168);
     font-size: larger;
-   /* border-collapse: collapse;*/
+    /* border-collapse: collapse;*/
 }
 
 #home {
     color: brown;
 }
+
+ #loaning {
+    background-color: brown;
+    color: white;
+    font-weight: 900;
+ }
 
 .archaeology {
     background-color: lightblue;
@@ -58,7 +67,7 @@ table, th, td{
 }
 
 #archaeology {
-    color: lightblue; 
+    color: lightblue;
 }
 
 .village-history {
@@ -88,7 +97,7 @@ table, th, td{
 }
 
 #monasteries {
-    color: orange; 
+    color: orange;
 }
 
 .research-guide {
@@ -98,7 +107,7 @@ table, th, td{
 }
 
 #research-guide {
-    color: red; 
+    color: red;
 }
 
 .maynooth-research-guide {
@@ -131,7 +140,7 @@ table, th, td{
 #english-history {
     color: yellow;
 }
-   
+
 .cork-county-history {
     background-color: blue;
     color: white;
@@ -139,17 +148,17 @@ table, th, td{
 }
 
 #cork-county-history {
-    color: blue;  
+    color: blue;
 }
 
 .travel-guides {
-   background-color: rgb(174, 68, 174);
-   color: white;
-   font-weight: 900;
+    background-color: rgb(174, 68, 174);
+    color: white;
+    font-weight: 900;
 }
 
 #travel-guides {
-    color: rgb(174, 68, 174); 
+    color: rgb(174, 68, 174);
 }
 
 .cork-city-history {
@@ -159,7 +168,7 @@ table, th, td{
 }
 
 #cork-city-history {
-    color: lightblue; 
+    color: lightblue;
 }
 
 .medieval-history {
@@ -179,7 +188,7 @@ table, th, td{
 }
 
 #early-christian {
-    color: rgb(239, 16, 161); 
+    color: rgb(239, 16, 161);
 }
 
 .journals {
@@ -189,7 +198,7 @@ table, th, td{
 }
 
 #journals {
-    color: purple; 
+    color: purple;
 }
 
 .maccarthy {
@@ -199,7 +208,7 @@ table, th, td{
 }
 
 #maccarthy {
-    color: red; 
+    color: red;
 }
 
 .famine {
@@ -209,7 +218,7 @@ table, th, td{
 }
 
 #famine {
-    color: orange; 
+    color: orange;
 }
 
 .early-modern {
@@ -219,7 +228,7 @@ table, th, td{
 }
 
 #early-modern {
-    color: purple; 
+    color: purple;
 }
 
 .castles {
@@ -229,7 +238,7 @@ table, th, td{
 }
 
 #castles {
-    color: yellow; 
+    color: yellow;
 }
 
 .church-history {
@@ -239,7 +248,7 @@ table, th, td{
 }
 
 #church-history {
-    color: blue; 
+    color: blue;
 }
 
 .irish-history {
@@ -249,7 +258,7 @@ table, th, td{
 }
 
 #irish-history {
-    color: lightgreen; 
+    color: lightgreen;
 }
 
 .industrial-heritage {
@@ -259,7 +268,7 @@ table, th, td{
 }
 
 #industrial-heritage {
-    color: rgb(239, 16, 161); 
+    color: rgb(239, 16, 161);
 }
 
 .gaelic-ireland {
@@ -269,7 +278,7 @@ table, th, td{
 }
 
 #gaelic-ireland {
-    color: yellow; 
+    color: yellow;
 }
 
 .irelands-own {
@@ -278,8 +287,8 @@ table, th, td{
     font-weight: 900;
 }
 
-#irelands-own { 
-    color: red; 
+#irelands-own {
+    color: red;
 }
 
 .local-government {
@@ -291,11 +300,12 @@ table, th, td{
 #local-government {
     color: yellow;
 }
+
 .navbar {
     font-weight: 900;
     font-size: xx-large;
     text-transform: uppercase;
-} 
+}
 
 a {
     width: 25%;
