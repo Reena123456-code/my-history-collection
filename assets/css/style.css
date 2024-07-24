@@ -19,6 +19,12 @@ h2 {
     text-align: center;
 }
 
+h3 {
+    font-size: medium;
+    text-align: center;
+    color: brown;
+}
+
 .flex-container {
     display: flex;
 }
