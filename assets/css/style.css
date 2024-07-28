@@ -86,6 +86,16 @@ td {
     color: navy;
 }
 
+.other {
+    background-color: black;
+    color: white;
+    font-weight: 900;
+}
+
+#other {
+    color: black;
+}
+
 .village-history {
     background-color: Green;
     color: white;
