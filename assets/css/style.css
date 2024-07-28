@@ -76,6 +76,16 @@ td {
     color: lightblue;
 }
 
+.ballinagree {
+    background-color: navy;
+    color: white;
+    font-weight: 900;
+}
+
+#ballinagree {
+    color: navy;
+}
+
 .village-history {
     background-color: Green;
     color: white;
