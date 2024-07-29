@@ -67,13 +67,13 @@ td {
  }
 
 .archaeology {
-    background-color: lightblue;
+    background-color: #00bfff;
     color: black;
     font-weight: 900;
 }
 
 #archaeology {
-    color: lightblue;
+    color:#00bfff;
 }
 
 .ballinagree {
@@ -178,13 +178,13 @@ td {
 }
 
 .english-history {
-    background-color: yellow;
+    background-color: #ffff33;
     color: black;
     font-weight: 900;
 }
 
 #english-history {
-    color: yellow;
+    color: #e6e600;
 }
 
 .cork-county-history {
@@ -208,13 +208,13 @@ td {
 }
 
 .cork-city-history {
-    background-color: lightblue;
+    background-color: #00bfff;
     color: black;
     font-weight: 900;
 }
 
 #cork-city-history {
-    color: lightblue;
+    color: #00bfff;
 }
 
 .medieval-history {
@@ -278,13 +278,13 @@ td {
 }
 
 .castles {
-    background-color: yellow;
+    background-color: #ffff33;
     color: black;
     font-weight: 900;
 }
 
 #castles {
-    color: yellow;
+    color: #e6e600;
 }
 
 .church-history {
@@ -318,13 +318,13 @@ td {
 }
 
 .gaelic-ireland {
-    background-color: yellow;
+    background-color: #ffff33;
     color: black;
     font-weight: 900;
 }
 
 #gaelic-ireland {
-    color: yellow;
+    color: #e6e600;
 }
 
 .irelands-own {
@@ -338,19 +338,20 @@ td {
 }
 
 .local-government {
-    background-color: yellow;
+    background-color: #ffff33;
     color: black;
     font-weight: 900;
 }
 
 #local-government {
-    color: yellow;
+    color: #e6e600;
 }
 
 .navbar {
     font-weight: 900;
     font-size: xx-large;
     text-transform: uppercase;
+    background-color: white;
 }
 
 a {
