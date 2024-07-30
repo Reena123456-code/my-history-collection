@@ -87,23 +87,34 @@ td {
 }
 
 .ryan {
-    background-color: darkred;
+    background-color: deeppink;
     color: white;
     font-weight: 900;
 }
 
 #ryan {
-    color: darkred;
+    color: deeppink;
 }
 
+.shelf {
+    background-color: darkslategray;
+    color: white;
+    font-weight: 900;
+}
+
+#shelf {
+    color: darkslategray;
+}
+
+
 .spare {
-    background-color: #592f57;
+    background-color: firebrick;
     color: white;
     font-weight: 900;
 }
 
 #spare {
-    color: #592f57;
+    color: firebrick;
 }
 
 .other {
