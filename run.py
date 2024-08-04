@@ -1,3 +1,15 @@
+import csv
+from tkinter import *
+from tkinter import messagebox
+
+#function to add a book to the library
+def add_book():
+    box_no = box_no_entry.get()
+    book_subject = book_subject_entry.get()
+    book_id =book_id_entry.get()
+    book_author = book_author_entry.get()
+    book_title = book_title_entry.get()
+
 import nfc
 import ndef
 from threading import Thread
