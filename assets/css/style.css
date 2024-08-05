@@ -208,6 +208,16 @@ td {
     color: blue;
 }
 
+.pdf {
+    background-color: blue;
+    color: white;
+    font-weight: 900;
+}
+
+#pdf {
+    color: blue;
+}
+
 .travel-guides {
     background-color: rgb(174, 68, 174);
     color: white;
