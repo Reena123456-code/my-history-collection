@@ -365,6 +365,14 @@ td {
     background-color: white;
 }
 
+.footer {
+    font-weight: 900;
+    font-size: xx-large;
+    text-transform: uppercase;
+    background-color: white;
+    text-align: center;
+}
+
 a {
     width: 25%;
     height: 30px;
