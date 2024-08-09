@@ -118,13 +118,13 @@ td {
 }
 
 .other {
-    background-color: black;
+    background-color: green;
     color: white;
     font-weight: 900;
 }
 
 #other {
-    color: black;
+    color: green;
 }
 
 .village-history {
@@ -138,13 +138,13 @@ td {
 }
 
 .church-design {
-    background-color: rgb(239, 16, 161);
+    background-color: purple;
     color: white;
     font-weight: 900;
 }
 
 #church-design {
-    color: rgb(239, 16, 161);
+    color: purple;
 }
 
 .monasteries {
@@ -178,14 +178,14 @@ td {
 }
 
 
-.war-of-independence {
-    background-color: purple;
+.irish-revolution {
+    background-color: rgb(239, 16, 161);
     color: white;
     font-weight: 900;
 }
 
-#war-of-independence {
-    color: purple;
+#irish-revolution {
+    color: rgb(239, 16, 161);
 }
 
 .english-history {
@@ -329,13 +329,13 @@ td {
 }
 
 .industrial-heritage {
-    background-color: rgb(239, 16, 161);
+    background-color: purple;
     color: white;
     font-weight: 900;
 }
 
 #industrial-heritage {
-    color: rgb(239, 16, 161);
+    color: purple;
 }
 
 .gaelic-ireland {
