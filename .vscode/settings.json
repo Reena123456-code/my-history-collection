@@ -21,7 +21,7 @@
       "**/CVS": true
    },
    "files.autoSave": "off",
-   "workbench.colorTheme": "Dark 2026",
+   "workbench.colorTheme": "Visual Studio Dark",
    "terminal.integrated.gpuAcceleration": "canvas",
    "editor.defaultFormatter": "HookyQR.beautify"
 }
