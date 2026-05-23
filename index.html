@@ -238,6 +238,25 @@
     </table>
     </div>
 
+    <h2>Add Book:</h2>
+    <form method="POST" action="/add">
+        <label for="title">Title: </label>
+        <input type="text" name="title" placeholder="Title" /><br>
+        <label for="author">Author: </label>
+        <input type="text" name="author" placeholder="Author" /><br>
+        <label for="category">Category: </label>
+        <input type="text" name="category" placeholder="Category" /><br>
+        <label for="box">Box: </label>
+        <input type="number" name="box" placeholder="Box Number" /><br>
+        <label for="id">Book Id: </label>
+        <input type="number" name="id"  placeholder="Book Id" /><br>
+        <label for="isbn">ISBN Number: </label>
+        <input type="text" name="isbn" placeholder="ISBN" /><br>
+        <label for="barcode">Barcode: </label>
+        <input type="text" name="barcode" placeholder="Barcode" /><br>
+        <input type="button" name="add" value="Add" />
+    </form>
+
     <script src="assets/js/script.js"></script>
 
     <footer class="footer">
