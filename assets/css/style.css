@@ -25,6 +25,12 @@ h3 {
     color: brown;
 }
 
+p {
+    font-size: larger;
+    text-align: center;
+    color: red;
+}
+
 .flex-container {
     display: flex;
 }
@@ -97,13 +103,13 @@ td {
 }
 
 .shelf {
-    background-color: darkslategray;
-    color: white;
+    background-color: cyan;
+    color: black;
     font-weight: 900;
 }
 
 #shelf {
-    color: darkslategray;
+    color: cyan;
 }
 
 
