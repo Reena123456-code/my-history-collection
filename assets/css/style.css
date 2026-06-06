@@ -374,6 +374,15 @@ td {
     color: #e6e600;
 }
 
+.world-history {
+    background-color: #ffff33;
+    color: black;
+    font-weight: 900;
+}
+
+#world-history {
+    color:  #e6e600;
+}
 .navbar {
     font-weight: 900;
     font-size: xx-large;
