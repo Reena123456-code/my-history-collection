@@ -354,6 +354,16 @@ td {
     color: #e6e600;
 }
 
+.hospital {
+    background-color: red;
+    color: white;
+    font-weight: 900;
+}
+
+#hospital {
+    color: red;
+}
+
 .irelands-own {
     background-color: red;
     color: white;
